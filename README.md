@@ -5,6 +5,6 @@
 
 Nice to meet you! 
 
-You're visitor numer is <img src="https://profile-counter.glitch.me/vaibhav7500/count.svg" style="vertical-align:middle">
+Your visitor numer is <img src="https://profile-counter.glitch.me/vaibhav7500/count.svg" style="vertical-align:middle">
 
 
